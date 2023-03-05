@@ -1,0 +1,78 @@
+locale                : "en-US"
+encoding              : "utf-8"
+timezone              : "Europe/London"
+title                 : "Ioannis Markakis"
+title_separator       : "-"
+name                  : "Ioannis Markakis"
+description           : "Personal webpage of Ioannis Markakis"
+url                   : "https://jmarkakis.github.io"
+baseurl               : ""
+repository            : "jmarkakis/jmarkakis.github.io"
+
+author                :
+  name                : "Ioannis Markakis"
+  avatar              : "profile.jpg"
+  bio                 : "PhD Candidate in <br> Computer Science"
+  location            : "Cambridge, UK"
+  employer            : "University of Cambridge"
+  googlescholar       : "Uou1WBwAAAAJ"
+  email               : "im496@cam.ac.uk"
+  uri                 :  "https://www.cst.cam.ac.uk/people/im496"
+  github              : "jmarkakis"
+  orcid               : "0000-0001-7553-9009"
+
+collections           :
+  publications        :
+    output            : false
+    permalink         : /:collection/:path/
+  presentations       :
+    output            : false
+    permalink         : /:collection/:path/
+  teaching            :
+    output            : false
+    permalink         : /:collection/:path/
+
+defaults              :
+  - scope             :
+      path            : ""
+      type            : pages
+    values            :
+      layout          : default
+      author_profile  : true
+
+markdown_ext          : "markdown,mkdown,mkdn,mkd,md"
+markdown              : kramdown
+highlighter           : rouge
+lsi                   : false
+excerpt_separator     : "\n\n"
+incremental           : false
+kramdown              :
+  input               : GFM
+  hard_wrap           : false
+  auto_ids            : true
+  footnote_nr         : 1
+  entity_output       : as_char
+  toc_levels          : 1..6
+  smart_quotes        : lsquo,rsquo,ldquo,rdquo
+  enable_coderay      : false
+sass                  :
+  sass_dir            : _sass
+  style               : compressed
+compress_html         :
+  clippings           : all
+  ignore              :
+    envs              : development
+
+keep_files:
+  - .git
+include:
+  - _pages
+  - files
+exclude:
+  - Gemfile
+plugins:
+  - jekyll-sitemap
+
+
+
+
