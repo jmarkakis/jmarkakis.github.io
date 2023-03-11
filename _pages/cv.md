@@ -10,6 +10,7 @@ Education
 * **University of Maryland**, College Park, MD, USA
   * M.A. in Mathematics, Jun 2020
   * GPA: 4.00 / 4.00
+  * Master's thesis: Cardinal powers and Silver's theorem
 * **University of Crete**, Heraklion, Greece
   * Ptychion in Mathematics, June 2017
   * GPA: 9.3 4 / 10 (Valedictorian)
@@ -48,7 +49,8 @@ Awards
 * Departmental Studentship, University of Cambridge, Sep 2020
 * Ph.D. Scholarship, Onassis Foundations, Sep 2020
 * "Stilianos Pichoridis" Award, University of Crete, Nov 2016
-* "Chrisanthos and Anastasia Karidi" Scholarship, University of Crete, Jul 2016
+* "Chrisanthos and Anastasia Karidi" Scholarship, University of Crete, Sep 2013
+* "Moving Education Forward" Award, Eurobank Group, Aug 2013
 
 Languages
 ---
