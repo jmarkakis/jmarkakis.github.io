@@ -1,0 +1,22 @@
+main:
+
+  - title: Computads for generalised signatures
+    venue: Peripatetic Seminar on Sheaves and Logic 107
+    location: National Technical University of Athens
+    date: Apr 01, 2023
+    pdf: ./assets/files/2023-PSSL.pdf
+    page: https://sites.google.com/view/pssl-107-athens
+
+  - title: Computads for generalised signatures
+    venue: Yorkshire and Midlands Category Theory Seminar 30
+    date: Mar 15, 2023
+    location: University of Birmingham
+    pdf: ./assets/files/2023-YaMCATS.pdf
+    page: https://conferences.leeds.ac.uk/yamcats/meeting-30/
+    
+  - title: Computads for weak \(\omega\)-categories as an inductive type
+    venue: Topology, Algebra and Categories in Logic 2022
+    location: University of Coimbra
+    date: Jun 23, 2022
+    pdf: ./assets/files/2022-TACL.pdf
+    page: https://www.mat.uc.pt/~tacl2022/

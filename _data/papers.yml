@@ -1,0 +1,30 @@
+
+
+main:
+
+  - title: Computads for generalised signatures
+    authors: Ioannis Markakis
+    journal: Preprint
+    date: 2023
+    pdf: https://arxiv.org/pdf/2303.11978.pdf
+    arxiv : https://arxiv.org/abs/2303.11978.pdf
+    abstract: We introduce a notion of signature whose sorts form a direct category, and study computads for such signatures. Algebras for such a signature are presheaves with an interpretation of every function symbol of the signature, and we describe how computads give rise to signatures. Generalising work of Batanin, we show that computads with certain generator-preserving morphisms form a presheaf category, and describe a forgetful functor from algebras to computads. Algebras free on a computad turn out to be the cofibrant objects for certain cofibrantly generated factorisation system, and the adjunction above induces the universal cofibrant replacement, in the sense of Garner, for this factorisation system. Finally, we conclude by explaining how many-sorted structures, weak \(\omega\)-categories, and algebraic semi-simplicial Kan complexes are algebras of such signatures, and we propose a notion of weak multiple category.
+    doi: https://doi.org/10.48550/arXiv.2303.11978
+
+  - title: Computads for weak \(\omega\)-categories as an inductive type
+    authors: Christopher J. Dean, Eric Finster, Ioannis Markakis, David Reutter, Jamie Vicary
+    journal: Preprint
+    date: 2022
+    pdf: https://arxiv.org/pdf/2208.08719.pdf
+    arxiv : https://arxiv.org/abs/2208.08719.pdf
+    abstract: We give a new description of computads for weak globular ω-categories by giving an explicit inductive definition of the free words. This yields a new understanding of computads, and allows a new definition of \(\omega\)-category that avoids the technology of globular operads. Our framework permits direct proofs of important results via structural induction, and we use this to give new proofs that every ω-category is equivalent to a free one, and that the category of computads with variable-to-variable maps is a presheaf topos, giving a direct description of the index category. We prove that our resulting definition of \(\omega\)-category agrees with that of Batanin and Leinster and that the induced notion of cofibrant replacement for \(\omega\)-categories coincides with that of Garner.
+    doi: https://doi.org/10.48550/arXiv.2208.08719
+
+  - title: Computing minimal generating systems for some special toric ideals
+    authors: Dimitrios Dais, Ioannis Markakis
+    journal: Preprint
+    date: 2017
+    pdf: https://arxiv.org/pdf/1705.06339.pdf
+    arxiv : https://arxiv.org/abs/1705.06339.pdf
+    abstract: Let \(X_P\) be the projective toric surface associated to a lattice polytope \(P\). If the number of lattice points lying on the boundary of \(P\) is at least \(4\), it is known that \(X_P\) is embeddable into a suitable projective space as zero set of finitely many quadrics. In this case, the determination of a minimal generating system of the toric ideal defining \(X_P\) is reduced to a simple Gaussian elimination.
+    doi: https://doi.org/10.48550/arXiv.1705.06339

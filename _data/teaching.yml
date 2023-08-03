@@ -1,0 +1,78 @@
+main: 
+  - title : University of Cambridge
+    url: https://www.cst.cam.ac.uk/
+    courses:
+    - role: Supervisor
+      title: "Logic and Proof"
+      date: Lent 2024
+      url: https://www.cl.cam.ac.uk/teaching/2324/LogicProof/
+    - role: Supervisor
+      title: "Computation Theory"
+      date: Lent 2023
+      url: https://www.cl.cam.ac.uk/teaching/2223/CompTheory/
+    - role: Supervisor
+      title: "Logic and Proof"
+      date: Lent 2023
+      url: https://www.cl.cam.ac.uk/teaching/2223/LogicProof/
+    - role: Supervisor
+      title: "Logic and Proof"
+      date: Lent 2022
+      url: https://www.cl.cam.ac.uk/teaching/2122/LogicProof/
+    - role: Supervisor
+      title: "Discrete Mathematics"
+      date: Michaelmas 2021
+      url: https://www.cl.cam.ac.uk/teaching/2122/DiscMath/
+    - role: Supervisor
+      title: "Discrete Mathematics"
+      date: Michaelmas 2020
+      url: https://www.cl.cam.ac.uk/teaching/2021/DiscMath/
+
+  - title : University of Maryland
+    url: https://www-math.umd.edu/
+    courses:
+    - role: Teaching Assistant
+      title: "Math 115: Precalculus"
+      date: Spring 2020
+      url: https://www-math.umd.edu/offered-courses/359-math-115-precalculus.html
+    - role: Grader
+      title: "Math 606: Algebraic Geometry I,"
+      date: Fall 2020
+      url: https://academiccatalog.umd.edu/graduate/courses/math/
+    - role: Grader
+      title: "Math 712: Logic I"
+      date: Fall 2020
+      url: https://academiccatalog.umd.edu/graduate/courses/math/
+    - role: Grader
+      title: "Math 446: Axiomatic Set Theory"
+      date: Spring 2019
+      url: https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/400-math-446-axiomatic-set-theory.html
+    - role: Grader
+      title: "Math 403: Introduction to Abstract Algebra"
+      date: Spring 2019
+      url: https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/383-math-403-introduction-to-abstract-algebra.html
+    - role: Teaching Assistant
+      title: "Math 140: Calculus I"
+      date: Fall 2018
+      url: https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/362-math-140-calculus-i.html
+    - role: Teaching Assistant
+      title: "Math 115: Precalculus"
+      date: Spring 2018
+      url: https://www-math.umd.edu/offered-courses/359-math-115-precalculus.html
+    - role: Instructor
+      title: "Math 113: College Algebra with Trigonometry"
+      date: Fall 2017
+      url: https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/358-math-113-college-algebra-with-applications.html
+  
+  - title : University of Crete
+    url: http://www.math.uoc.gr/en/
+    courses:
+    - role: Undergraduate Teaching Assistant
+      title: "MEM-103: Foundations of Mathematics"
+      date: Spring 2016
+      url: http://www.math.uoc.gr/en/courses.html
+    - role: Undergraduate Teaching Assistant
+      title: "MEM-103: Foundations of Mathematics"
+      date: Spring 2014
+      url: http://www.math.uoc.gr/en/courses.html
+
+  
