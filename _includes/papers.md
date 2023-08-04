@@ -20,6 +20,9 @@
       {% if link.doi %} 
       <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       {% endif %}
+      {% if link.code %} 
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">FORMALISATION</a>
+      {% endif %}
     </div>
   </div>
 </li>

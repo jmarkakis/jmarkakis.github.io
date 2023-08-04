@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in [Computer Science](https://www.cst.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), member of [Fitzwilliam College](https://www.fitz.cam.ac.uk/). My research interests lie in the intersection of mathematics and theoretical computer science. More specificallly, I am interested in higher category theory, and type-theoretic methods in it. I have studied and generalised the notion of computads to theories that are not necessarily globular, and I am currently thinking about comparisons of globular and simplicial notions of higher categories. My studies are supported by a scholarship of the [Onassis Foundation](https://www.onassis.org/).
+I am a Ph.D. candidate in [Computer Science](https://www.cst.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), member of [Fitzwilliam College](https://www.fitz.cam.ac.uk/). My research interests lie in the intersection of mathematics and theoretical computer science. More specificallly, I am interested in higher category theory, and type-theoretic methods in it. I have studied and generalised the notion of computads to theories that are not necessarily globular, and I am currently thinking about comparisons of globular and simplicial notions of higher categories. My studies are supported by a scholarship of the [Onassis Foundation](https://www.onassis.org/).
 
 {% include_relative _includes/papers.md %}
 {% include_relative _includes/talks.md %}
