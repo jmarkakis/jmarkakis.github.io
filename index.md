@@ -16,7 +16,7 @@ I am a Ph.D. candidate at the [Computer Lab](https://www.cst.cam.ac.uk/) of the 
     <div class="title"><a href="{{ paper.pdf }}">{{ paper.title }}</a></div>
     <div class="author">{{ paper.authors }}</div>
     <div class="periodical"><em>{{ paper.journal }} ({{ paper.date }})</em></div>
-    {% if paper.abstract %}<div class="abstract"><details><summary>Abstract</summary>{{ paper.abstract }}</details></div>{% endif %}
+    {% if paper.abstract %}<div class="abstract"><details><summary>Abstract</summary><p style="margin-left: 15px">{{ paper.abstract }}</p></details></div>{% endif %}
     <div class="links">
       {% if paper.pdf %}<a href="{{ paper.pdf }}" style="font-size:20px;"><i class="fa fa-file-pdf"></i></a>{% endif %}
       {% if paper.arxiv %}<a href="{{ paper.arxiv }}" style="font-size:20px;"><i class="ai ai-arxiv"></i></a>{% endif %}
