@@ -1,5 +1,10 @@
 main:
 
+  - title: Pittsposium
+    url: https://www.cl.cam.ac.uk/events/pittsposium/
+    location: University of Cambridge, Cambridge, UK
+    date: August 2023
+
   - title: Category Theory 2023
     url: https://sites.uclouvain.be/ct2023/
     location: UCLouvain, Louvain-la-Neuve, Belgium
