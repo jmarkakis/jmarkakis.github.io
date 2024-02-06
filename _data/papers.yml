@@ -2,6 +2,15 @@
 
 main:
 
+  - title: Duality for weak \(\omega\)-categories
+    authors: Thibaut Benjamin, Ioannis Markakis
+    journal: Preprint
+    date: 2024
+    pdf: https://arxiv.org/pdf/2402.01611.pdf
+    arxiv : https://arxiv.org/abs/2402.01611.pdf
+    abstract: We define inductively the opposites of a weak globular \(\omega\)-category with respect to a set of dimensions, and we show that the properties of being free on a globular set or a computad are preserved under forming opposites. We then provide a new description of hom \(\omega\)-categories, and show that the opposites of a hom \(\omega\)-category are hom \(\omega\)-categories of opposites of the original \(\omega\)-category.
+    doi: https://doi.org/10.48550/arXiv.2402.01611
+
   - title: Computads for generalised signatures
     authors: Ioannis Markakis
     journal: Preprint
