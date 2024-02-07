@@ -6,9 +6,9 @@ affiliation_link: https://www.cst.cam.ac.uk/
 email: ioannis.markakis@cl.cam.ac.uk
 description: Ioannis Markakis is a PhD Candidate in Computer Science at the University of Cambridge.
 keywords: ioannis markakis, markakis ioannis, computads, higher category theory
-baseurl: "" 
-url: "https://jmarkakis.github.io" 
-canonical: "https://jmarkakis.github.io" 
+baseurl: ""
+url: "https://jmarkakis.github.io"
+canonical: "https://jmarkakis.github.io"
 github_username:  jmarkakis
 google_scholar: Uou1WBwAAAAJ&hl=en
 cv_link: assets/pdf/curriculum_vitae.pdf
@@ -22,9 +22,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
