@@ -21,5 +21,7 @@ google_analytics: G-T0FC7R60JK
 exclude:
   - Gemfile
   - Gemfile.lock
+  - flake.nix
+  - flake.lock
   - README.md
   - LICENSE
