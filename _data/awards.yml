@@ -1,5 +1,5 @@
 main:
-  
+
   - title: College Senior Scholarship
     affiliation: Fitzwilliam College
     location: Cambridge, UK
@@ -11,7 +11,7 @@ main:
     affiliation: Fitzwilliam College
     location: Cambridge, UK
     date: Mar 2022
-    note: Award for outstanding performance 
+    note: Award for outstanding performance
     url: https://www.cst.cam.ac.uk/
 
   - title: Departmental Studentship
@@ -43,28 +43,27 @@ main:
     url: https://pdmc.uoc.gr/en/scholarships/chrysanthos-anastasia-karydi-scholarship/
 
   - title: Moving Education Forward Award
-    affiliation: Eurobank 
+    affiliation: Eurobank
     location: Heraklion, Crete, Greece
     date: October 2013
     note: Given to the top graduate of each high school in Greece
     url: https://www.eurobank.gr/en/group/esg-environment-society-governance/society/moving-education-forward/
 
   - title: Bronze Medal
-    affiliation: Hellenic Mathematic Society 
+    affiliation: Hellenic Mathematic Society
     location: Athens, Greece
     date: April 2010
     note: Given for my performance at the at Hellenic Mathematical Olympiad ``Archimedes''
     url: http://hms.gr/?q=node/64
-  
-
-  
-  
 
 
-  
-  
-  
-  
 
 
-  
+
+
+
+
+
+
+
+

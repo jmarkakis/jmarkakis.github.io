@@ -1,5 +1,10 @@
 main:
 
+  - title: A novel approach to \(\omega\)-categories.
+    venue: Masaryk University Algebra Seminar
+    location: Masaryk University
+    date: Apr 03, 2024
+
   - title: Computads for generalised signatures
     venue: Peripatetic Seminar on Sheaves and Logic 107
     location: National Technical University of Athens
@@ -13,7 +18,7 @@ main:
     location: University of Birmingham
     pdf: ./assets/pdf/2023-YaMCATS.pdf
     page: https://conferences.leeds.ac.uk/yamcats/meeting-30/
-    
+
   - title: Computads for weak \(\omega\)-categories as an inductive type
     venue: Topology, Algebra and Categories in Logic 2022
     location: University of Coimbra

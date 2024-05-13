@@ -72,14 +72,17 @@ I am a Ph.D. candidate at the [Computer Lab](https://www.cst.cam.ac.uk/) of the 
   {% endfor %}
 </ul>
 
-<h2 style="margin-top: 20px">Misc</h2>
+<h2 style="margin-top: 20px">Other</h2>
 
-<ul style="margin:0 0 5px;">  
+<ul style="margin:0 0 5px;">
   <li><autocolor>
-    Local organiser for the <a href="https://conferences.leeds.ac.uk/yamcats/meeting-28/">28th YaMCATS</a> (September 2022)
+    Member of the programme committee for <a href="https://www.cl.cam.ac.uk/events/syco/12/">SYCO 12</a>
   </autocolor></li>
   <li><autocolor>
-    Local organiser for the <a href="https://www.cl.cam.ac.uk/events/act2021/">Applied Category Theory 2021</a> conference (July 2021)
+    Local organiser for the <a href="https://conferences.leeds.ac.uk/yamcats/meeting-28/">28th</a> and <a href="https://conferences.leeds.ac.uk/yamcats/meeting-32/">32nd YaMCATS</a> meetings
+  </autocolor></li>
+  <li><autocolor>
+    Local organiser for the <a href="https://www.cl.cam.ac.uk/events/act2021/">Applied Category Theory 2021</a> conference
   </autocolor></li>
 </ul>
 
