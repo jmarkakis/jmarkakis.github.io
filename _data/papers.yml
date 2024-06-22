@@ -2,9 +2,18 @@
 
 main:
 
+  - title: Invertible cells in \(\omega\)-categories
+    authors: Thibaut Benjamin, Ioannis Markakis
+    journal: Preprint
+    date: 2024
+    pdf: https://arxiv.org/pdf/2406.12345.pdf
+    arxiv : https://arxiv.org/abs/2406.12345
+    abstract:   We study coinductive invertibility of cells in weak \(\omega\)\-categories. We use the inductive presentation of weak \(\omega\)\-categories via an adjunction with the category of computads, and show that invertible cells are closed under all operations of $\omega$\-categories. Moreover, we give a simple criterion for invertibility in computads, together with an algorithm computing the data witnessing the invertibility, including the inverse, and the cancellation data.
+    doi: https://doi.org/10.48550/arXiv.2406.12345
+
   - title: CaTT contexts are finite computads
     authors: Thibaut Benjamin, Ioannis Markakis, Chiara Sarti
-    journal: 40th Mathematical Foundations of Programming Semantics
+    journal: Proceedings of the 40th Conference in Mathematical Foundations of Programming Semantics
     date: 2024
     pdf: https://arxiv.org/pdf/2405.00398.pdf
     arxiv : https://arxiv.org/abs/2405.00398
@@ -12,7 +21,7 @@ main:
     doi: https://doi.org/10.48550/arXiv.2405.00398
 
 
-  - title: Duality for weak \(\omega\)-categories
+  - title: Opposites for weak \(\omega\)-categories and the suspension and hom adjunction
     authors: Thibaut Benjamin, Ioannis Markakis
     journal: Preprint
     date: 2024
@@ -37,7 +46,7 @@ main:
     pdf: https://arxiv.org/pdf/2208.08719.pdf
     arxiv : https://arxiv.org/abs/2208.08719
     abstract: We give a new description of computads for weak globular ω-categories by giving an explicit inductive definition of the free words. This yields a new understanding of computads, and allows a new definition of \(\omega\)-category that avoids the technology of globular operads. Our framework permits direct proofs of important results via structural induction, and we use this to give new proofs that every ω-category is equivalent to a free one, and that the category of computads with variable-to-variable maps is a presheaf topos, giving a direct description of the index category. We prove that our resulting definition of \(\omega\)-category agrees with that of Batanin and Leinster and that the induced notion of cofibrant replacement for \(\omega\)-categories coincides with that of Garner.
-    doi: https://doi.org/10.48550/arXiv.2208.08719
+    doi: https://doi.org/10.1016/j.aim.2024.109739
     code: https://github.com/jmarkakis/computads.agda
 
   - title: Computing minimal generating systems for some special toric ideals
