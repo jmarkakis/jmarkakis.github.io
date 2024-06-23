@@ -4,14 +4,14 @@ main:
     venue: Category Theory 2024
     location: University of Santiago de Compostela
     date: Jun 25, 2024
-    pdf : ./assets/2024-CT-poster.pdf
+    pdf : ./assets/pdf/2024-CT-poster.pdf
     page: https://www.usc.gal/regaca/ct2024/
 
   - title: Opposite and hom weak \(\omega\)-categories
     venue: Category Theory 2024
     location: University of Santiago de Compostela
     date: Jun 24, 2024
-    pdf : ./assets/2024-CT-slides.pdf
+    pdf : ./assets/pdf/2024-CT-slides.pdf
     page: https://www.usc.gal/regaca/ct2024/
 
   - title: A novel approach to \(\omega\)-categories.

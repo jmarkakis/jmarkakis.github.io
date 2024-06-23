@@ -6,10 +6,10 @@ main:
     authors: Thibaut Benjamin, Ioannis Markakis
     journal: Preprint
     date: 2024
-    pdf: https://arxiv.org/pdf/2406.12345.pdf
-    arxiv : https://arxiv.org/abs/2406.12345
+    pdf: https://arxiv.org/pdf/2406.12127.pdf
+    arxiv : https://arxiv.org/abs/2406.12127
     abstract:   We study coinductive invertibility of cells in weak \(\omega\)\-categories. We use the inductive presentation of weak \(\omega\)\-categories via an adjunction with the category of computads, and show that invertible cells are closed under all operations of $\omega$\-categories. Moreover, we give a simple criterion for invertibility in computads, together with an algorithm computing the data witnessing the invertibility, including the inverse, and the cancellation data.
-    doi: https://doi.org/10.48550/arXiv.2406.12345
+    doi: https://doi.org/10.48550/arXiv.2406.12127
 
   - title: CaTT contexts are finite computads
     authors: Thibaut Benjamin, Ioannis Markakis, Chiara Sarti
