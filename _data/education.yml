@@ -1,10 +1,10 @@
 main:
 
-  - title: PhD in Computer Science (expected)
+  - title: PhD in Computer Science
     affiliation: University of Cambridge
     location: Cambridge, UK
     date: Oct 2020 - Sep 2024
-    note:
+    note: Defended on february 2025
     url: https://www.cst.cam.ac.uk/
 
   - title: MA in Mathematics
@@ -27,4 +27,3 @@ main:
     date: Sep 2010 - Jun 2013
     note: I graduated with a GPA of 19.7/20. Moreover, I achieved the highest score of 19,099 / 20,000 at the university entrance exams in my school (top 0.42% nationwide).
     url: http://8lyk-irakl.ira.sch.gr/
-

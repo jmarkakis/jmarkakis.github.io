@@ -1,5 +1,10 @@
 main:
 
+  - title: Categorical Logic and Higher Categories
+    url: https://gtendas.github.io/clhc/
+    location: University of Manchester, Manchester, UK
+    date: December 2024
+
   - title: Category Theory 2024
     url: https://www.usc.gal/regaca/ct2024/
     location: University of Santiago de Compostela, Santiago de Compostela, Spain
@@ -120,6 +125,3 @@ main:
     url: https://www.cl.cam.ac.uk/events/act2021/
     location: University of Cambridge, Cambridge, UK
     date: July 2021
-
-
-

@@ -5,6 +5,17 @@ main:
     courses:
 
     - role: Supervisor
+      title: "Discrete Mathematics"
+      date: Michaelmas 2024
+      url: https://www.cl.cam.ac.uk/teaching/2425/DiscMath/
+
+    - role: Supervisor
+      title: "Logic and Proof"
+      date: Lent 2025
+      url: https://www.cl.cam.ac.uk/teaching/2425/LogicProof/
+
+
+    - role: Supervisor
       title: "Logic and Proof"
       date: Lent 2024
       url: https://www.cl.cam.ac.uk/teaching/2324/LogicProof/
@@ -91,4 +102,3 @@ main:
       title: "MEM-103: Foundations of Mathematics"
       date: Spring 2014
       url: http://www.math.uoc.gr/en/courses.html
-

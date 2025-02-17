@@ -4,9 +4,9 @@ layout: homepage
 
 <h2>About Me</h2>
 
-I am a Ph.D. candidate at the [Computer Lab](https://www.cst.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/), and member of [Fitzwilliam College](https://www.fitz.cam.ac.uk/). My research interests lie in the intersection of mathematics and theoretical computer science. More specificallly, I am interested in higher category theory, and type-theoretic methods in it. I have studied and generalised the notion of computads to theories that are not necessarily globular, and I am currently thinking about comparisons of globular and simplicial notions of higher categories. My studies are supported by a scholarship of the [Onassis Foundation](https://www.onassis.org/).
+I am a Research Assistant at the [Computer Lab](https://www.cst.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/), working with [Prof. Jamie Vicary](https://www.cl.cam.ac.uk/~jv258/). My research interests lie in the intersection of mathematics and theoretical computer science. I am working on higher category theory using ideas from logic and dependent type theory. I am interested in applications of higher categories to topology and to the semantics of programming languages. Moreover, I am interested in the homotopy theory of higher categories, in particular the comparison of different models, and the homotopy hypothesis for globular models.
 
-<h2 style="margin: 0px 0px -15px;">Papers</h2>
+<h2 style="margin: 0px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography" >
@@ -72,7 +72,7 @@ I am a Ph.D. candidate at the [Computer Lab](https://www.cst.cam.ac.uk/) of the 
   {% endfor %}
 </ul>
 
-<h2 style="margin-top: 20px">Other</h2>
+<h2 style="margin-top: 20px">Conference Organisation</h2>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>
@@ -85,4 +85,3 @@ I am a Ph.D. candidate at the [Computer Lab](https://www.cst.cam.ac.uk/) of the 
     Local organiser for the <a href="https://www.cl.cam.ac.uk/events/act2021/">Applied Category Theory 2021</a> conference
   </autocolor></li>
 </ul>
-

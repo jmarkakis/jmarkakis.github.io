@@ -2,13 +2,31 @@
 
 main:
 
+  - title: Higher Eckmann-Hilton Arguments in Type Theory
+    authors: Thibaut Benjamin, Ioannis Markakis, Wilfred Offord, Chiara Sarti, Jamie Vicary
+    journal: Preprint
+    date: 2025
+    pdf: https://arxiv.org/pdf/2501.16465.pdf
+    arxiv : https://arxiv.org/abs/2501.16465
+    abstract: We use a type theory for \(\omega\)-categories to produce higher-dimensional generalisations of the Eckmann-Hilton argument. The heart of our construction is a family of padding and repadding techniques, which give a notion of congruence between cells of different types. This gives explicit witnesses in all dimensions that, for cells with degenerate boundary, all composition operations are congruent and commutative. Our work has been implemented, allowing us to explicitly compute these witnesses, and we show these grow rapidly in complexity as the parameters are varied. Our results can also be exported as elements of identity types in Martin-Lof type theory, and hence are of relevance in homotopy type theory.
+    doi: https://doi.org/10.48550/arXiv.2501.16465
+
+  - title: Naturality for higher-dimensional path types
+    authors: Thibaut Benjamin, Ioannis Markakis, Wilfred Offord, Chiara Sarti, Jamie Vicary
+    journal: Preprint
+    date: 2025
+    pdf: https://arxiv.org/pdf/2501.11620.pdf
+    arxiv : https://arxiv.org/abs/2501.11620
+    abstract: We define a naturality construction for the operations of weak \(\omega\)-categories, as a meta-operation in a dependent type theory. Our construction has a geometrical motivation as a local tensor product with a directed interval, and behaves logically as a globular analogue of Reynolds parametricity. Our construction operates as a ``power tool'' to support construction of terms with geometrical structure, and we use it to define composition operations for cylinders and cones in omega-categories. The machinery can generate terms of high complexity, and we have implemented our construction in a proof assistant, which verifies that the generated terms have the correct type. All our results can be exported to homotopy type theory, allowing the explicit computation of complex path type inhabitants.
+    doi: https://doi.org/10.48550/arXiv.2501.11620
+
   - title: Invertible cells in \(\omega\)-categories
     authors: Thibaut Benjamin, Ioannis Markakis
     journal: Preprint
     date: 2024
     pdf: https://arxiv.org/pdf/2406.12127.pdf
     arxiv : https://arxiv.org/abs/2406.12127
-    abstract:   We study coinductive invertibility of cells in weak \(\omega\)\-categories. We use the inductive presentation of weak \(\omega\)\-categories via an adjunction with the category of computads, and show that invertible cells are closed under all operations of $\omega$\-categories. Moreover, we give a simple criterion for invertibility in computads, together with an algorithm computing the data witnessing the invertibility, including the inverse, and the cancellation data.
+    abstract: We study coinductive invertibility of cells in weak \(\omega\)\-categories. We use the inductive presentation of weak \(\omega\)\-categories via an adjunction with the category of computads, and show that invertible cells are closed under all operations of $\omega$\-categories. Moreover, we give a simple criterion for invertibility in computads, together with an algorithm computing the data witnessing the invertibility, including the inverse, and the cancellation data.
     doi: https://doi.org/10.48550/arXiv.2406.12127
 
   - title: CaTT contexts are finite computads
@@ -19,7 +37,6 @@ main:
     arxiv : https://arxiv.org/abs/2405.00398
     abstract: Two novel descriptions of weak \(\omega\)-categories have been recently proposed, using type-theoretic ideas. The first one is the dependent type theory CaTT whose models are \(\omega\)-categories. The second is a recursive description of a category of computads together with an adjunction to globular sets, such that the algebras for the induced monad are again \(\omega\)-categories. We compare the two descriptions by showing that there exits a fully faithful morphism of categories with families from the syntactic category of CaTT to the opposite of the category of computads, which gives an equivalence on the subcategory of finite computads. We derive a more direct connection between the category of models of CaTT and the category of algebras for the monad on globular sets, induced by the adjunction with computads.
     doi: https://doi.org/10.48550/arXiv.2405.00398
-
 
   - title: Opposites for weak \(\omega\)-categories and the suspension and hom adjunction
     authors: Thibaut Benjamin, Ioannis Markakis
