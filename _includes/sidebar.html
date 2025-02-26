@@ -1,0 +1,27 @@
+<div class="sidebar sticky">
+  <div itemscope itemtype="http://schema.org/Person">
+    <!-- Picture -->
+    <div class="author__avatar">
+      <img src="{{ site.avatar | prepend: site.url }}" class="author__avatar" alt="{{ site.name }}">
+    </div>
+    <!-- Name -->
+    <div class="author__content">
+      <h3 class="author__name">{{ site.name }}</h3>
+      <p class="author__bio">{{ site.bio }}</p>
+    </div>
+    <!-- Contact -->
+    <div class="author__urls-wrapper">
+      <button class="btn btn--inverse">Follow</button>
+      <ul class="author__urls social-icons">
+        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ site.location }}</li>
+        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ site.employer }}</li>
+        <li><a href="mailto:{{ site.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ "Email" }}</a></li>
+        <li><a href="https://arxiv.org/a/{{ site.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
+        <li><a href="https://scholar.google.com/citations?user={{ site.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
+        <li><a href="https://orcid.org/{{ site.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
+        <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus }}"><i class="ai ai-scopus icon-pad-right"></i>Scopus</a></li>
+        <li><a href="https://github.com/{{ site.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
+      </ul>
+    </div>
+  </div>
+</div>

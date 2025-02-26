@@ -1,0 +1,15 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    <li><a href="mailto:{{ site.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a></li>
+    <li><a href="https://arxiv.org/a/{{ site.arxiv }}"><i class="ai ai-arxiv ai-fw"></i></a></li>
+    <li><a href="https://scholar.google.com/citations?user={{ site.googlescholar }}"><i class="ai ai-google-scholar"></i></a></li>
+    <li><a href="https://orcid.org/{{ site.orcid }}"><i class="ai ai-orcid ai-fw"></i></a></li>
+    <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus }}"><i class="ai ai-scopus"></i></a></li>
+    <li><a href="https://github.com/{{ site.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name }}, {{ default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
+  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
+</div>

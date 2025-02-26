@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+permalink: /teaching.html
+---
+
+{% for university in site.data.teaching.places %}
+  <h2><a href="{{ university.url }}">{{ university.title }}</a></h2>
+  {% for role in university.roles %}
+    <h3>{{ role.title }}</h3>
+    <ul>
+      {% for course in role.courses %}
+        <li>
+          <a href="{{ course.url }}">{{ course.title }}</a> ({{ course.date }})
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% endfor %}

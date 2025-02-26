@@ -1,0 +1,33 @@
+---
+title: "Presentations"
+permalink: /presentations.html
+---
+
+<ul>
+  {% for talk in site.data.presentations.main %}
+    <div class="list__item">
+      <li>
+        <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+          <h2 class="archive__item-title" style=display:inline>
+            <a href="{{ paper.page }}">
+              {{ talk.title }}
+            </a>
+          </h2>
+          <div class="archive__item-links" style=display:inline>
+            {% if talk.pdf %}<a href="{{ talk.pdf }}"><i class="fa fa-file-pdf"></i></a>{% endif %}
+            {% if talk.page %}<a href="{{ talk.page }}"><i class="fa fa-globe"></i></a>{% endif %}
+          </div>
+          <div class="archive__item-periodical">
+            <i>{{ talk.venue }}</i>
+          </div>
+          <div class="archive__item-locationCreated">
+            {{ talk.location }}
+          </div>
+          <div class="archive__item-dateCreated" style=display:inline>
+            {{ talk.date }}
+          </div>
+        </article>
+      </li>
+    </div>
+  {% endfor %}
+</ul>

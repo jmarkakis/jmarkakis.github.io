@@ -1,0 +1,35 @@
+main:
+
+  - title: Opposite and hom weak \(\omega\)-categories
+    venue: Category Theory 2024
+    location: Santiago de Compostela, Spain
+    date: June 24, 2024
+    pdf : ./files/2024-CT-slides.pdf
+    page: https://www.usc.gal/regaca/ct2024/
+
+  - title: A novel approach to \(\omega\)-categories
+    venue: Masaryk University Algebra Seminar
+    location: Brno, Czechia
+    date: April 03, 2024
+    page: https://www.math.muni.cz/~bourkej/BAS.html
+
+  - title: Computads for generalised signatures
+    venue: Peripatetic Seminar on Sheaves and Logic 107
+    location: Athens, Greece
+    date: April 01, 2023
+    pdf: ./files/2023-PSSL.pdf
+    page: https://sites.google.com/view/pssl-107-athens/
+
+  - title: Computads for generalised signatures
+    venue: Yorkshire and Midlands Category Theory Seminar 30
+    date: March 15, 2023
+    location: Birmingham, UK
+    pdf: ./files/2023-YaMCATS.pdf
+    page: https://conferences.leeds.ac.uk/yamcats/meeting-30/
+
+  - title: Computads for weak \(\omega\)-categories as an inductive type
+    venue: Topology, Algebra and Categories in Logic 2022
+    location: Coimbra, Portugal
+    date: June 23, 2022
+    pdf: ./files/2022-TACL.pdf
+    page: https://www.mat.uc.pt/~tacl2022/
