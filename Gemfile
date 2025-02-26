@@ -1,4 +1,8 @@
-source "https://rubygems.org"
-gem "minima", "~> 2.0"
-gem "github-pages", group: :jekyll_plugins
-gem "webrick", "~> 1.8"
+source 'https://rubygems.org'
+
+group :jekyll_plugins do
+  gem 'jekyll'
+  gem 'jemoji'
+  gem 'kramdown-parser-gfm'
+  gem 'webrick'
+end

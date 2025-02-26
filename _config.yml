@@ -1,27 +1,85 @@
-lang: en-UK
-title: Ioannis Markakis
-position: Research Assistant
-affiliation: University of Cambridge
-affiliation_link: https://www.cst.cam.ac.uk/
-email: ioannis.markakis@cl.cam.ac.uk
-description: Ioannis Markakis is a Research Assistant in Computer Science at the University of Cambridge
-keywords: ioannis markakis, markakis ioannis, category theory, higher categories
-baseurl: ""
-url: "https://jmarkakis.github.io"
-canonical: "https://jmarkakis.github.io"
-github_username:  jmarkakis
-google_scholar: JSoqfbcAAAAJ
-cv_link: assets/pdf/curriculum_vitae.pdf
-# linkedin: ioannis-markakis-a3636b253
-orcid: 0000-0001-7553-9009
-avatar: ./assets/img/profile.jpg
-favicon: ./assets/img/favicon.png
-remote_theme: yaoyao-liu/minimal-light
-google_analytics: G-T0FC7R60JK
+encoding                  : "utf-8"
+locale                    : "en-GB"
+timezone                  : "Etc/UTC"
+site_theme                : "dark"
+name                      : &name "Ioannis Markakis"
+title                     : *name
+title_separator           : "-"
+description               :  >-
+  Research Assistant at the Computer Lab of the University of Cambridge.
+  My research interests lie in higher category theory and dependent type theory.
+url                       : "https://jmarkakis.github.io"
+baseurl                   : ""
+repository                : "jmarkakis/jmarkakis.github.io"
+avatar                    : "/images/profile.jpg"
+bio                       : "Research Assistant"
+location                  : "Cambridge, UK"
+employer                  : "University of Cambridge"
+email                     : "ioannis.markakis@cl.cam.ac.uk"
+arxiv                     : "markakis_i_1"
+googlescholar             : "JSoqfbcAAAAJ"
+orcid                     : "0000-0001-7553-9009"
+scopus                    : "57857273300"
+github                    : "jmarkakis"
+google_site_verification  : "dkhrqbKAW7bEwfWPTMhArQAzipicoMWOLNfFJ1JZiNA"
+google_tracking_id        : "G-T0FC7R60JK"
+defaults                  :
+  - scope                 :
+      path                : ""
+      type                : pages
+    values                :
+      layout              : default
+      author_profile      : true
+sass                      :
+  sass_dir                : _sass
+  style                   : compressed
+compress_html             :
+  clippings               : all
+  ignore                  :
+    envs                  : development
+markdown                  : kramdown
+markdown_ext              : "md"
+highlighter               : rouge
+lsi                       : false
+excerpt_separator         : "\n\n"
+incremental               : false
+kramdown                  :
+  input                   : GFM
+  hard_wrap               : false
+  auto_ids                : true
+  footnote_nr             : 1
+  entity_output           : as_char
+  toc_levels              : 1..6
+  smart_quotes            : lsquo,rsquo,ldquo,rdquo
+  enable_coderay          : false
+
+include:
+  - _pages
+  - files
 exclude:
+  - .asset-cache
+  - .bundle
+  - .github
+  - .sass-cache
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - CHANGELOG
+  - Capfile
+  - config
+  - Dockerfile
   - Gemfile
-  - Gemfile.lock
-  - flake.nix
-  - flake.lock
-  - README.md
+  - Gruntfile.js
+  - gulpfile.js
   - LICENSE
+  - local
+  - log
+  - node_modules
+  - package.json*
+  - Rakefile
+  - README
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
