@@ -61,6 +61,7 @@ exclude:
   - .bundle
   - .github
   - .sass-cache
+  - .envrc
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -80,6 +81,8 @@ exclude:
   - README
   - tmp
   - vendor
+  - flake.nix
+  - flake.lock
 keep_files:
   - .git
   - .svn
