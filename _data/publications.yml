@@ -43,11 +43,11 @@ published:
 
 preprints:
 
-  - title: Higher Eckmann-Hilton Arguments in Type Theory
+  - title: "Beyond Eckmann-Hilton: Commutativity in Higher Categories"
     authors: Thibaut Benjamin, Ioannis Markakis, Wilfred Offord, Chiara Sarti, Jamie Vicary
     date: 2025
     arxiv : https://arxiv.org/abs/2501.16465
-    abstract: We use a type theory for \(\omega\)-categories to produce higher-dimensional generalisations of the Eckmann-Hilton argument. The heart of our construction is a family of padding and repadding techniques, which give a notion of congruence between cells of different types. This gives explicit witnesses in all dimensions that, for cells with degenerate boundary, all composition operations are congruent and commutative. Our work has been implemented, allowing us to explicitly compute these witnesses, and we show these grow rapidly in complexity as the parameters are varied. Our results can also be exported as elements of identity types in Martin-Lof type theory, and hence are of relevance in homotopy type theory.
+    abstract: We show that in a weak globular \(\omega\)-category, all composition operations are equivalent and commutative for cells with sufficiently degenerate boundary, which can be considered a higher-dimensional generalisation of the Eckmann-Hilton argument. Our results are formulated constructively in a type-theoretic presentation of \(\omega\)-categories. The heart of our construction is a family of padding and repadding techniques, which gives an equivalence relation between cells which are not necessarily parallel. Our work has been implemented, allowing us to explicitly compute suitable witnesses, which grow rapidly in complexity as the dimension increases. These witnesses can be exported as inhabitants of identity types in Homotopy Type Theory, and hence are of relevance in synthetic homotopy theory.
 
   - title: Invertible cells in \(\omega\)-categories
     authors: Thibaut Benjamin, Ioannis Markakis
