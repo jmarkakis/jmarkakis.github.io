@@ -6,13 +6,13 @@ name                      : &name "Ioannis Markakis"
 title                     : *name
 title_separator           : "-"
 description               :  >-
-  Research Assistant at the Computer Lab of the University of Cambridge.
+  Research Associate at the Computer Lab of the University of Cambridge.
   My research interests lie in higher category theory and dependent type theory.
 url                       : "https://jmarkakis.github.io"
 baseurl                   : ""
 repository                : "jmarkakis/jmarkakis.github.io"
 avatar                    : "/images/profile.jpg"
-bio                       : "Research Assistant"
+bio                       : "Research Associate"
 location                  : "Cambridge, UK"
 employer                  : "University of Cambridge"
 email                     : "ioannis.markakis@cl.cam.ac.uk"

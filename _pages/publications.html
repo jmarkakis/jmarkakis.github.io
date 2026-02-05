@@ -69,3 +69,41 @@ permalink: /publications.html
     </li>
   {% endfor %}
 </ul>
+
+<h2>Thesis</h2>
+
+<ul>
+{% for paper in site.data.publications.thesis %}
+  <li>
+    <div class="list__item">
+      <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        <h3 class="archive__item-title" style=display:inline>
+          <a href="{{ paper.doi }}">
+            {{ paper.title }}
+          </a>
+        </h3>
+        <div class="archive__item-links" style=display:inline >
+          {% if paper.arxiv %}<a href="{{ paper.arxiv }}"><i class="ai ai-arxiv"></i></a>{% endif %}
+          {% if paper.doi %}<a href="{{ paper.doi }}" ><i class="ai ai-doi"></i></a>{% endif %}
+          {% if paper.code %}<a href="{{ paper.code }}"><i class="fab fa-github"></i></a>{% endif %}
+        </div>
+        <div class="archive__item-author">
+          {{ paper.authors }}
+        </div>
+        <div class="archive__item-periodical" style=display:inline>
+          <i>{{ paper.journal }}</i>
+        </div>
+        <div class="archive__item-dateCreated" style=display:inline>
+          ({{ paper.date }})
+        </div>
+        <div class="archive__item-abstract">
+          <details>
+            <summary>Abstract</summary>
+            <p>{{ paper.abstract }}</p>
+          </details>
+        </div>
+      </article>
+    </div>
+  </li>
+{% endfor %}
+</ul>
