@@ -43,6 +43,12 @@ published:
 
 preprints:
 
+  - title: A type theory for invertibility in weak \(\omega\)-categories
+    authors: Thibaut Benjamin, Camil Champin, Ioannis Markakis
+    date: 2026
+    arxiv : https://arxiv.org/abs/2602.16602
+    abstract: We present a conservative extension ICaTT of the dependent type theory CaTT for weak \(\omega\)-categories with a type witnessing coinductive invertibility of cells. This extension allows for a concise description of the "walking equivalence" as a context, and of a set of maps characterising \(\omega\)-equifibrations as substitutions. We provide an implementation of our theory, which we use to formalise basic properties of invertible cells. These properties allow us to give semantics of ICaTT in marked weak \(\omega\)-categories, building a fibrant marked \(\omega\)-category out of every model of ICaTT.
+
   - title: "Beyond Eckmann-Hilton: Commutativity in Higher Categories"
     authors: Thibaut Benjamin, Ioannis Markakis, Wilfred Offord, Chiara Sarti, Jamie Vicary
     date: 2025
