@@ -1,5 +1,18 @@
 main:
 
+  - title:  A type theory for invertibility in weak \(\omega\)-categories
+    venue: TYPES 2026
+    location: Gothenburg, Sweden
+    date: May 5, 2026
+    pdf : ./files/2026-TYPES-slides.pdf
+    page: https://types2026.cse.chalmers.se
+
+  - title: Computads with invertible generators
+    venue: Higher categories, polygraphs and homotopy seminar at IRIF
+    location: Paris, France
+    date: April 24, 2026
+    page: https://www.irif.fr/en/seminaires/cat/index
+
   - title: Opposite and hom weak \(\omega\)-categories
     venue: Category Theory 2024
     location: Santiago de Compostela, Spain

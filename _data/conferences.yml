@@ -1,5 +1,25 @@
 main:
 
+  - title: Queer and Trans People in Category Theory
+    url: https://www.conferences.uni-hamburg.de/event/684/
+    location: University of Hamburg, Hamburg, Germany
+    date: August 2026
+
+  - title: Workshop in Celebration of Marcelo Fiore's 60th Birthday
+    url: https://fiorefest.gitlab.io/home/
+    location: University of Cambridge, Cambridge, UK
+    date: July 2026
+
+  - title: TYPES 2026
+    url: https://types2026.cse.chalmers.se
+    location: Chalmers University of Technology and University of Gothenburg, Gothenburg, Sweden
+    date: May 2026
+
+  - title: Peripatetic Seminar in Sheaves and Logic 112
+    url: https://sites.google.com/view/pssl112/home
+    location: University of Nottingham, Nottingham, UK
+    date: March 2026
+
   - title: ItaLean 2025
     url: https://pitmonticone.github.io/ItaLean2025/
     location: Bologna, Italy
