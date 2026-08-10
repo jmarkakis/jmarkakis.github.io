@@ -1,5 +1,12 @@
 main:
 
+  - title:  Invertibility in higher categories
+    venue: Queer and Trans People in Category Theory
+    location: Hamburg, Germany
+    date: August 12, 2026
+    pdf : ./files/2026-QTCat.pdf
+    page: https://www.conferences.uni-hamburg.de/event/684/
+
   - title:  A type theory for invertibility in weak \(\omega\)-categories
     venue: TYPES 2026
     location: Gothenburg, Sweden
