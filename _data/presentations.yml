@@ -1,5 +1,12 @@
 main:
 
+  - title: Coinductive invertibility in higher categories
+    venue: Higher Structures in Category Theory, Homotopy Theory and Type Theory
+    location: Aberdeen, UK
+    date: September 9, 2026
+    pdf: ./files/2026-HS-slides.pdf
+    page: https://sites.google.com/view/higherstructures/home?authuser=0
+
   - title:  Invertibility in higher categories
     venue: Queer and Trans People in Category Theory
     location: Hamburg, Germany
